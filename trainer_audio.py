@@ -1,3 +1,4 @@
+# Констанчук Олеся 09.10.2022
 import pickle
 
 import matplotlib.pyplot as plt
